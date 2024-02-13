@@ -1,0 +1,17 @@
+INSERT INTO T_PLAYER (T_PLAYER_NAME, T_PLAYER_POSITION, T_PLAYER_CLUBNAME, T_PLAYER_IMAGEURL) VALUES ('Lionel Messi', 'Delantero', 'Inter Miami', 'https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/Inter_Miami_CF_logo.svg/1200px-Inter_Miami_CF_logo.svg.png');
+INSERT INTO T_PLAYER (T_PLAYER_NAME, T_PLAYER_POSITION, T_PLAYER_CLUBNAME, T_PLAYER_IMAGEURL) VALUES ('Ronaldinho', 'Extremo', 'Leyenda', 'https://pbs.twimg.com/media/FQDMAdyXsAUJboz.png');
+INSERT INTO T_PLAYER (T_PLAYER_NAME, T_PLAYER_POSITION, T_PLAYER_CLUBNAME, T_PLAYER_IMAGEURL) VALUES ('Cristiano Ronaldo', 'Delantero', 'Al-Nassr F.C.', 'https://upload.wikimedia.org/wikipedia/en/9/9d/Logo_Al-Nassr.png');
+INSERT INTO T_PLAYER (T_PLAYER_NAME, T_PLAYER_POSITION, T_PLAYER_CLUBNAME, T_PLAYER_IMAGEURL) VALUES ('Kylian Mbappé', 'Delantero', 'Paris Saint-Germain', 'https://cdnb.20m.es/sites/30/2021/07/422px-Paris_Saint-Germain_F.C..svg.png');
+INSERT INTO T_PLAYER (T_PLAYER_NAME, T_PLAYER_POSITION, T_PLAYER_CLUBNAME, T_PLAYER_IMAGEURL) VALUES ('Zinedine Zidane', 'Mediocentro', 'Leyenda', 'https://pbs.twimg.com/media/FQDMAdyXsAUJboz.png');
+INSERT INTO T_PLAYER (T_PLAYER_NAME, T_PLAYER_POSITION, T_PLAYER_CLUBNAME, T_PLAYER_IMAGEURL) VALUES ('Marc Bartra', 'Defensa', 'Real Betis', 'https://upload.wikimedia.org/wikipedia/en/thumb/1/13/Real_betis_logo.svg/1200px-Real_betis_logo.svg.png');
+INSERT INTO T_PLAYER (T_PLAYER_NAME, T_PLAYER_POSITION, T_PLAYER_CLUBNAME, T_PLAYER_IMAGEURL) VALUES ('Neymar Jr.', 'Delantero', 'Al-Hilal Saudi F.C.', 'https://i.pinimg.com/736x/fb/e3/9e/fbe39e0164db936758854419bc05f037.jpg');
+INSERT INTO T_PLAYER (T_PLAYER_NAME, T_PLAYER_POSITION, T_PLAYER_CLUBNAME, T_PLAYER_IMAGEURL) VALUES ('Roberto Carlos', 'Lateral', 'Leyenda', 'https://pbs.twimg.com/media/FQDMAdyXsAUJboz.png');
+INSERT INTO T_PLAYER (T_PLAYER_NAME, T_PLAYER_POSITION, T_PLAYER_CLUBNAME, T_PLAYER_IMAGEURL) VALUES ('Kevin De Bruyne', 'Mediocentro', 'Manchester City', 'https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Manchester_City_FC_badge.svg/1200px-Manchester_City_FC_badge.svg.png');
+INSERT INTO T_PLAYER (T_PLAYER_NAME, T_PLAYER_POSITION, T_PLAYER_CLUBNAME, T_PLAYER_IMAGEURL) VALUES ('Erling Haaland', 'Delantero', 'Manchester City', 'https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Manchester_City_FC_badge.svg/1200px-Manchester_City_FC_badge.svg.png');
+INSERT INTO T_PLAYER (T_PLAYER_NAME, T_PLAYER_POSITION, T_PLAYER_CLUBNAME, T_PLAYER_IMAGEURL) VALUES ('Kaká', 'Mediocentro', 'Leyenda', 'https://pbs.twimg.com/media/FQDMAdyXsAUJboz.png');
+INSERT INTO T_PLAYER (T_PLAYER_NAME, T_PLAYER_POSITION, T_PLAYER_CLUBNAME, T_PLAYER_IMAGEURL) VALUES ('Jude Bellingham', 'Mediocentro', 'Real Madrid', 'https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/1200px-Real_Madrid_CF.svg.png');
+INSERT INTO T_PLAYER (T_PLAYER_NAME, T_PLAYER_POSITION, T_PLAYER_CLUBNAME, T_PLAYER_IMAGEURL) VALUES ('Mohamed Salah', 'Extremo', 'Liverpool', 'https://cdnb.20m.es/sites/30/2016/08/yyyLiverpool_FC.jpg');
+INSERT INTO T_PLAYER (T_PLAYER_NAME, T_PLAYER_POSITION, T_PLAYER_CLUBNAME, T_PLAYER_IMAGEURL) VALUES ('Vini Junior', 'Extremo', 'Real Madrid', 'https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/1200px-Real_Madrid_CF.svg.png');
+INSERT INTO T_PLAYER (T_PLAYER_NAME, T_PLAYER_POSITION, T_PLAYER_CLUBNAME, T_PLAYER_IMAGEURL) VALUES ('Iker Casillas', 'Portero', 'Leyenda', 'https://pbs.twimg.com/media/FQDMAdyXsAUJboz.png');
+
+
