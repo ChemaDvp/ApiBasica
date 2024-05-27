@@ -1,9 +1,4 @@
 # API BASICA
-### Temática
-Jugadores de Futbol
-
-# Nombre del Proyecto
-
 Bienvenido a la documentación de [Nombre del Proyecto](https://github.com/tu-usuario/nombre-del-repositorio/wiki)!
 
 ## Contenido
