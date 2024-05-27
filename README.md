@@ -1,5 +1,6 @@
+Bienvenido a la documentación de [ApiBasica](https://github.com/ChemaDvp/ApiBasica/wiki)!
+
 # API BASICA
-Bienvenido a la documentación de [Nombre del Proyecto](https://github.com/tu-usuario/nombre-del-repositorio/wiki)!
 
 ## Contenido
 - [Introducción](https://github.com/ChemaDvp/ApiBasica/wiki/Introducción)
@@ -8,5 +9,5 @@ Bienvenido a la documentación de [Nombre del Proyecto](https://github.com/tu-us
 - [Contribuir](https://github.com/ChemaDvp/ApiBasica/wiki/Contribuir)
 
 ## Acerca del proyecto
-(Incluye una breve descripción del proyecto aquí)
+API creada en Java con Spring, para su uso en aplicación android.
 
